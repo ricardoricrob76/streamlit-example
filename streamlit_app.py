@@ -18,6 +18,7 @@ from sklearn.metrics import confusion_matrix
 st.write("*Formação Engenheiro de Machine Learning*")
 st.write("*Deploy de Modelos de Machine Learning*")
 st.write("*Deploy de Aplicações Preditivas com Streamlit*")
+st.write("*Autor: Ricardo Roberto de Lima*")
 st.title("Regressão Logística")
 
 ##### Programando a Barra Lateral de Navegação da Aplicação Web #####
