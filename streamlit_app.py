@@ -182,7 +182,8 @@ if(st.sidebar.button("Clique Para Treinar o Modelo de Regressão Logística")):
     st.write("Acurácia do Modelo:", modelo["acuracia"])
 
     # Obrigado
-    st.write("Obrigado por usar esta app do Streamlit!")
+    st.write("Obrigado por usar esta app do Streamlit! - Produzido por:")
+    st.write("Prof. Ricardo Roberto de Lima, Arquiteto de Software e Cientista e Engenheiro de Dados")
 
 
 
